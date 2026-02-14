@@ -1,3 +1,3 @@
-module github.com/amin2121/go-learn-module.git
+module github.com/amin2121/go-learn-module
 
 go 1.25.6
